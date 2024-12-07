@@ -1,6 +1,7 @@
 - Hi, I’m @Supritha-2004
-- I’m interested in Computer science
-- I’m currently learning programming languages 
+- I'm Passionate about problem-solving, innovation, and contributing effectively to organizational success.
+
+
 
 
 <!---
